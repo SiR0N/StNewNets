@@ -1,5 +1,5 @@
 # STNet: Selective Tuning of Convolutional Networks for Object Localization
-By Mahdi Biparva (PhD Student @ York University, Toronto)
+By Mahdi Biparva (PhD Student @ York University, Toronto), extended by Jose Manuel Paredes (Master Student @ Aalto University, Helsinki )
 
 This repository contains the ___STNet___ implementation for _weakly-supervised object localization_.
 
