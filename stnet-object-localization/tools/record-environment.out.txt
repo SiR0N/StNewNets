@@ -1,0 +1,46 @@
+record-output running at Tue 12 Feb 17:45:25 EET 2019
+paredej1
+/scratch/work/paredej1/stnet-object-localization/tools
+login2.triton.aalto.fi
+
+===== MODULES =====
+
+Currently Loaded Modules:
+  1) GCCcore/7.3.0                 3) GCC/7.3.0-2.30   5) cuDNN/7-CUDA-9.0.176
+  2) binutils/2.30-GCCcore-7.3.0   4) CUDA/9.0.176     6) anaconda3/latest
+
+
+===== QUOTA =====
+Disk quotas for user paredej1 (uid 1248964): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+home2-ib:/export/home/jblomqvi
+                5595820  10000000 11000000           25088       0       0        
+~/.Xauthority size=280.
+
+===== ENVIRONMENT (PARTIAL) =====
+CPATH=/share/apps2/anaconda/anaconda3/latest/include:/share/apps/easybuild/software/cuDNN/7-CUDA-9.0.176/include:/share/apps/easybuild/software/CUDA/9.0.176/include:/cvmfs/fgi.csc.fi/apps/el7/binutils/2.30-GCCcore-7.3.0/include:/cvmfs/fgi.csc.fi/apps/el7/GCCcore/7.3.0/include
+CUDA_PATH=/share/apps/easybuild/software/CUDA/9.0.176
+LD_LIBRARY_PATH=/share/apps2/anaconda/anaconda3/latest/lib:/share/apps/easybuild/software/cuDNN/7-CUDA-9.0.176/lib64:/share/apps/easybuild/software/CUDA/9.0.176/lib64:/cvmfs/fgi.csc.fi/apps/el7/binutils/2.30-GCCcore-7.3.0/lib:/cvmfs/fgi.csc.fi/apps/el7/GCCcore/7.3.0/lib/gcc/x86_64-pc-linux-gnu/7.3.0:/cvmfs/fgi.csc.fi/apps/el7/GCCcore/7.3.0/lib64:/cvmfs/fgi.csc.fi/apps/el7/GCCcore/7.3.0/lib
+LIBRARY_PATH=/share/apps2/anaconda/anaconda3/latest/lib:/share/apps/easybuild/software/cuDNN/7-CUDA-9.0.176/lib64:/share/apps/easybuild/software/CUDA/9.0.176/lib64:/cvmfs/fgi.csc.fi/apps/el7/binutils/2.30-GCCcore-7.3.0/lib:/cvmfs/fgi.csc.fi/apps/el7/GCCcore/7.3.0/lib64:/cvmfs/fgi.csc.fi/apps/el7/GCCcore/7.3.0/lib
+LMOD_arch=x86_64
+LMOD_CMD=/usr/share/lmod/lmod/libexec/lmod
+LMOD_COLORIZE=yes
+LMOD_DEFAULT_MODULEPATH=/etc/modulefiles:/usr/share/modulefiles:/share/apps2/easybuild/modules/all:/share/apps/easybuild/modules/all:/share/apps/modules:/cvmfs/fgi.csc.fi/modules/el7/all:/share/apps/singularity/modules:/share/apps/spack/modules/linux-centos7-x86_64/Core:/share/apps/anaconda-ci/modules:/share/apps/singularity-ci/centos/modules/common:/usr/share/modulefiles/Linux:/usr/share/modulefiles/Core:/usr/share/lmod/lmod/modulefiles/Core
+LMOD_DIR=/usr/share/lmod/lmod/libexec
+LMOD_FULL_SETTARG_SUPPORT=no
+LMOD_PACKAGE_PATH=/etc/profile.d/
+LMOD_PAGER=/bin/less
+LMOD_PKG=/usr/share/lmod/lmod
+LMOD_PREPEND_BLOCK=normal
+LMOD_SETTARG_CMD=:
+LMOD_sys=Linux
+LMOD_VERSION=6.6.3
+LOADEDMODULES=GCCcore/7.3.0:binutils/2.30-GCCcore-7.3.0:GCC/7.3.0-2.30:CUDA/9.0.176:cuDNN/7-CUDA-9.0.176:anaconda3/latest
+MANPATH=/cvmfs/fgi.csc.fi/apps/el7/binutils/2.30-GCCcore-7.3.0/share/man:/cvmfs/fgi.csc.fi/apps/el7/GCCcore/7.3.0/share/man:/usr/share/lmod/lmod/share/man::/usr/local/share/man:/usr/share/man
+MODULEPATH=/etc/modulefiles:/usr/share/modulefiles:/share/apps2/easybuild/modules/all:/share/apps/easybuild/modules/all:/share/apps/modules:/cvmfs/fgi.csc.fi/modules/el7/all:/share/apps/singularity/modules:/share/apps/spack/modules/linux-centos7-x86_64/Core:/share/apps/anaconda-ci/modules:/share/apps/singularity-ci/centos/modules/common:/usr/share/modulefiles/Linux:/usr/share/modulefiles/Core:/usr/share/lmod/lmod/modulefiles/Core
+MODULEPATH_ROOT=/usr/share/modulefiles
+MODULESHOME=/usr/share/lmod/lmod
+PATH=/scratch/work/paredej1/env/stnet/bin:/share/apps2/anaconda/anaconda3/latest/condabin:/share/apps2/anaconda/anaconda3/latest/bin:/share/apps/easybuild/software/CUDA/9.0.176:/share/apps/easybuild/software/CUDA/9.0.176/bin:/cvmfs/fgi.csc.fi/apps/el7/binutils/2.30-GCCcore-7.3.0/bin:/cvmfs/fgi.csc.fi/apps/el7/GCCcore/7.3.0/bin:/usr/lib/qt-3.3/bin:/usr/lib64/ccache:/usr/local/bin:/usr/bin:/home/paredej1/bin:/usr/local/sbin:/usr/sbin:/opt/ibutils/bin
+WRKDIR=/scratch/work/paredej1
+
+===== SLURM =====
